@@ -1,0 +1,37 @@
+# Arquivos Python compilados e caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais (se você usar um, o nome pode variar)
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Arquivos de IDE e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de dados Excel gerados (se você não quiser versioná-los)
+# Comente as linhas abaixo se você QUISER versionar os arquivos .xlsx e .html gerados
+# OS_selecionadas_BI.xlsx
+# OS_selecionadas_BI_completo.html
+# comparativo_BI_x_Producao_debug.xlsx
+# relatorio_comparativo_BI_x_Producao.html
+
+# Arquivos de dados de entrada (se você não quiser versioná-los)
+# Comente as linhas abaixo se você QUISER versionar os arquivos .xlsx de entrada
+# BI.xlsx
+# planilha_producao_teste.xlsx
+
+# Arquivos de dependências (se você gerar um requirements.txt, o pip freeze)
+# Não ignorar o requirements.txt em si
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
